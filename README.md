@@ -43,3 +43,4 @@
     - Paid
 - [Pixel Art Sci Fi](https://azagaya.itch.io/sci-fi-theme)
     - Paid
+- [Aestro](https://hanprog.itch.io/godot-aestro-theme)
