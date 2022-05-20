@@ -33,3 +33,13 @@
     - Broken as editor theme
 - [Modern Dark](https://github.com/Calinou/modern_dark_theme)
     - Does not work in Godot 3
+- [Metal Pixel](https://azagaya.itch.io/metal-pixel-theme)
+    - Paid
+- [Minimalist](https://azagaya.itch.io/minimalistic-ui)
+- [Simple Box](https://azagaya.itch.io/simplebox-gui)
+    - Paid
+- [Kenney's UI](https://azagaya.itch.io/kenneys-ui-theme)
+- [Ornate Pixel Art](https://azagaya.itch.io/ornate-theme)
+    - Paid
+- [Pixel Art Sci Fi](https://azagaya.itch.io/sci-fi-theme)
+    - Paid
